@@ -1,4 +1,4 @@
-const WORKER="https://tvoyaapteka-dataid.alexcobainius.workers.dev/";
+const WORKER="https://tvoyaapteka-dataid.alexcobainius.workers.dev";
 
 const urls=document.getElementById("urls");
 const output=document.getElementById("output");
